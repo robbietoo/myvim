@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/shen/Xilinx/pkg/petalinux/components/yocto/source/aarch64/layers/core'
+let g:netrw_dirhist_2='/home/shen/rdf0429-zcu102-es2-base-trd-2017-4/apu/petalinux_bsp/project-spec/meta-user/recipes-bsp/device-tree/files'
+let g:netrw_dirhist_3='/home/shen/sw-prj/rdf0429-zcu102-es2-base-trd-2017-4/apu/video_app/filter2d_optflow_sds/src'
